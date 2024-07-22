@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+# Use this file to configure your live environment
+
+mkdir -p /root/.config/openbox/
+echo "feh --bg-scale /usr/share/wallpapers/extra/GrayGrid.jpg &" > /root/.config/openbox/autostart

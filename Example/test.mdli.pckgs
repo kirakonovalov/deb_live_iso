@@ -1,0 +1,11 @@
+iwd
+curl openssh-client
+xserver-xorg-core
+xserver-xorg
+xinit
+xterm
+lightdm
+openbox
+obconf
+nano
+feh
